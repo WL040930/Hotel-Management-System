@@ -1,0 +1,33 @@
+WEILUN
+Ipoh
+weilun@gmail
+999
+m
+8 Seo
+19
+weilunusername.username
+weilunnewpassword.password
+admin
+
+ABU
+sabah
+abu@gmail
+100
+m
+8 january
+12
+iamabu.username
+abupassword.password
+customer
+
+JOHN
+Kedah
+john@gmail
+01111
+m
+7 sep
+32
+johnusername.username
+johnpassword.password
+customer
+

@@ -1,0 +1,30 @@
+DELUXE ROOM
+3
+4
+5
+weilunusername.username
+
+NORMAL ROOM
+4
+5
+12
+weilunusername.username
+
+NORMAL ROOM
+Abu
+29 sep
+3
+iamabu.username
+
+NORMAL ROOM
+Abu
+3 september
+3
+iamabu.username
+Add two more single beds
+DELUXE ROOM
+hehe 
+21 january
+4
+iamabu.username
+Add a double beds
