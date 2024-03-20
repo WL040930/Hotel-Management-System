@@ -2028,4 +2028,4 @@ def complete_system():
 
         print("Thanks for using the hotel reservation system.")
 
-edit_menu()
+complete_system()
