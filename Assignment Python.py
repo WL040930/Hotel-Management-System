@@ -100,7 +100,7 @@ def show_all_room_name():
 
 
 
-# def a function that allow user to update and modify the rooom details
+# def a function that allow user to update and modify the rooom detail
 
 def update_room_detail():
     print("Welcome Admin! Here is the page for you to update and modify the room details.\n")
